@@ -1,2 +1,2 @@
-# PROG_UNI
+# PROGRAMA_UNI
 CursoProgramadorJava
